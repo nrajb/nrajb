@@ -7,6 +7,8 @@ sudo ./aws/install
 
 echo "Setting up HomeBrew for Linux"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/codespace/.profile
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 chsh -s $(which zsh)
 
