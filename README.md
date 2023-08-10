@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj - @nrajb
 - 👀 I’m interested in Cloud Computing, DevOps
 - 🌱 I’m currently learning Golang!
-- 💞️ I’m looking to collaborate on AWS-Opensource, Terraform and Golang (as a learner)
+- 💞️ I’m looking to collaborate on AWS-OpenSource, Terraform and Golang based projects
 
 
 <!---
