@@ -1,7 +1,37 @@
-- 👋 Hi, I’m Raj - @nrajb
-- 👀 I’m interested in Cloud Computing, DevOps
-- 🌱 I’m currently learning Golang!
-- 💞️ I’m looking to collaborate on AWS-OpenSource, Terraform and Golang based projects
+# Hello, I'm Nagaraju! 👋
+
+Aka Raj and Nags in my professional network!
+I'm a seasoned **DevOps Architect** with a passion for cloud infrastructure and automation. With certifications from all three major cloud platforms, I specialize in AWS and Azure, ensuring scalable and resilient systems.
+
+## 🚀 Skills
+
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Containers**: Docker, CtonainerD and Orchestration: OSS Kubernetes, EKS and EKS-Anywhere
+- **Infrastructure as Code**: Terraform, AWS CDK
+- **Languages**: Golang, TypeScript, Python
+
+## 📜 Certifications
+
+### :white_check_mark: 
+- AWS Certified Solutions Architect Associate
+- AWS DevOps Professional
+
+### :hourglass_flowing_sand:
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Security Engineer Associate
+- Microsoft Certified: Azure Administrator
+- Google Cloud - Associate Cloud Engineer
+
+
+## 🌱 Open Source Contributions
+
+I'm an active contributor to the [Terraform AWS Provider](https://github.com/terraform-providers/terraform-provider-aws) and always on the lookout for more opportunities to contribute to Golang and TypeScript-based projects.
+
+## 🤝 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nagarajubasavaraju/)
+
+---
 
 
 ### 🚀 Quick Stats
