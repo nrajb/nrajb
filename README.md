@@ -1,6 +1,6 @@
 # Hello, I'm Nagaraju! 👋
 
-Aka Raj and Nags in my professional network!
+Aka Raj/Nags in my professional network!
 I'm a seasoned **DevOps Architect** with a passion for cloud infrastructure and automation. With certifications from all three major cloud platforms, I specialize in AWS and Azure, ensuring scalable and resilient systems.
 
 ## 🚀 Skills
