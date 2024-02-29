@@ -12,11 +12,9 @@ I'm a seasoned **DevOps Architect** with a passion for cloud infrastructure and 
 
 ## 📜 Certifications
 
-### :white_check_mark: 
-- AWS Certified Solutions Architect Associate
-- AWS DevOps Professional
-
-### :hourglass_flowing_sand:
+- [AWS DevOps Professional](https://www.credly.com/badges/e9adf069-9674-4596-b8e3-10e4031e1ebd)
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/b581f03a-bbae-4cdf-919a-2eaad56e3fa3)
+- [GitHub Actions](https://www.credly.com/badges/ecfa1821-6328-4fec-9007-f8437cca6d02)
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator
